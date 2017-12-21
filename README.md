@@ -19,6 +19,12 @@ An open-world tank fight with simple AI, terrain, and advanced control system in
  * Turn by moving one of tracks
  * Turret rotation and aiming
 
+### AI
+ * Same controls as player
+ * Can miss
+ * Trying to avoid player's shots
+ * Goal is to destroy player's tank
+
 ### UI
  * Simple menu
  * Start and Quit game
