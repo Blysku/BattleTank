@@ -1,8 +1,10 @@
 # BattleTank
 An open-world tank fight with simple AI, terrain, and advanced control system in Unreal Engine 4
 
-## GDD
+### Iterative Cycle
+->World->Tank->Controls->Player2->UI->World
 
+## GDD
 ### World
  * Simple map with mountains and hills as natural covers
 
